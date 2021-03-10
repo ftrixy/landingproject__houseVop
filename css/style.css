@@ -86,7 +86,7 @@ li {
 .intro {
   display: flex;
   align-items: flex-end;
-  background: linear-gradient(180deg, #242B33 11.98%, rgba(45, 52, 60, 0.4) 51.04%, #242B33 92.19%), url("../../img/intro.png") center;
+  background: linear-gradient(180deg, #242B33 11.98%, rgba(45, 52, 60, 0.4) 51.04%, #242B33 92.19%), url("../img/intro.png") center;
   height: 840px;
   width: 100%;
 }
